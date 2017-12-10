@@ -1,0 +1,77 @@
+c:\users\jake\documents\visual studio 2013\Projects\OS_COSC60_TruePrends\TruePrendsOS\bin\Debug\TruePrendsOS.exe.config
+C:\Users\Jake\documents\visual studio 2013\Projects\OS_COSC60_TruePrends\TruePrendsOS\bin\Debug\TruePrendsOS.exe
+C:\Users\Jake\documents\visual studio 2013\Projects\OS_COSC60_TruePrends\TruePrendsOS\bin\Debug\TruePrendsOS.pdb
+C:\Users\Jake\documents\visual studio 2013\Projects\OS_COSC60_TruePrends\TruePrendsOS\obj\Debug\TruePrendsOS.csprojResolveAssemblyReference.cache
+C:\Users\Jake\documents\visual studio 2013\Projects\OS_COSC60_TruePrends\TruePrendsOS\obj\Debug\TruePrendsOS.Properties.Resources.resources
+C:\Users\Jake\documents\visual studio 2013\Projects\OS_COSC60_TruePrends\TruePrendsOS\obj\Debug\TruePrendsOS.csproj.GenerateResource.Cache
+C:\Users\Jake\documents\visual studio 2013\Projects\OS_COSC60_TruePrends\TruePrendsOS\obj\Debug\TruePrendsOS.exe
+C:\Users\Jake\documents\visual studio 2013\Projects\OS_COSC60_TruePrends\TruePrendsOS\obj\Debug\TruePrendsOS.pdb
+C:\Users\Jake\documents\visual studio 2013\Projects\OS_COSC60_TruePrends\TruePrendsOS\bin\Debug\MetroFramework.dll
+C:\Users\Jake\documents\visual studio 2013\Projects\OS_COSC60_TruePrends\TruePrendsOS\obj\Debug\TruePrendsOS.LoadScreen.resources
+C:\Users\Jake\documents\visual studio 2013\Projects\OS_COSC60_TruePrends\TruePrendsOS\obj\Debug\TruePrendsOS.Login.resources
+C:\Users\Jake\documents\visual studio 2013\Projects\OS_COSC60_TruePrends\TruePrendsOS\bin\Debug\MetroFramework.Design.dll
+C:\Users\Jake\documents\visual studio 2013\Projects\OS_COSC60_TruePrends\TruePrendsOS\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Jake\documents\visual studio 2013\Projects\OS_COSC60_TruePrends\TruePrendsOS\obj\Debug\TruePrendsOS.MainForm.resources
+C:\Users\cvsu\Desktop\OS_COSC60_TruePrends\TruePrendsOS\bin\Debug\TruePrendsOS.exe.config
+C:\Users\cvsu\Desktop\OS_COSC60_TruePrends\TruePrendsOS\obj\Debug\TruePrendsOS.exe
+C:\Users\cvsu\Desktop\OS_COSC60_TruePrends\TruePrendsOS\obj\Debug\TruePrendsOS.pdb
+C:\Users\cvsu\Desktop\OS_COSC60_TruePrends\TruePrendsOS\bin\Debug\TruePrendsOS.exe
+C:\Users\cvsu\Desktop\OS_COSC60_TruePrends\TruePrendsOS\bin\Debug\TruePrendsOS.pdb
+C:\Users\cvsu\Desktop\OS_COSC60_TruePrends\TruePrendsOS\bin\Debug\MetroFramework.Design.dll
+C:\Users\cvsu\Desktop\OS_COSC60_TruePrends\TruePrendsOS\bin\Debug\MetroFramework.dll
+C:\Users\cvsu\Desktop\OS_COSC60_TruePrends\TruePrendsOS\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\cvsu\Desktop\OS_COSC60_TruePrends\TruePrendsOS\obj\Debug\TruePrendsOS.csprojResolveAssemblyReference.cache
+C:\Users\cvsu\Desktop\OS_COSC60_TruePrends\TruePrendsOS\obj\Debug\TruePrendsOS.LoadScreen.resources
+C:\Users\cvsu\Desktop\OS_COSC60_TruePrends\TruePrendsOS\obj\Debug\TruePrendsOS.Login.resources
+C:\Users\cvsu\Desktop\OS_COSC60_TruePrends\TruePrendsOS\obj\Debug\TruePrendsOS.MainForm.resources
+C:\Users\cvsu\Desktop\OS_COSC60_TruePrends\TruePrendsOS\obj\Debug\TruePrendsOS.Properties.Resources.resources
+C:\Users\cvsu\Desktop\OS_COSC60_TruePrends\TruePrendsOS\obj\Debug\TruePrendsOS.csproj.GenerateResource.Cache
+F:\OS_COSC60_TruePrends\TruePrendsOS\bin\Debug\TruePrendsOS.exe.config
+F:\OS_COSC60_TruePrends\TruePrendsOS\obj\Debug\TruePrendsOS.exe
+F:\OS_COSC60_TruePrends\TruePrendsOS\obj\Debug\TruePrendsOS.pdb
+F:\OS_COSC60_TruePrends\TruePrendsOS\bin\Debug\TruePrendsOS.exe
+F:\OS_COSC60_TruePrends\TruePrendsOS\bin\Debug\TruePrendsOS.pdb
+F:\OS_COSC60_TruePrends\TruePrendsOS\bin\Debug\MetroFramework.Design.dll
+F:\OS_COSC60_TruePrends\TruePrendsOS\bin\Debug\MetroFramework.dll
+F:\OS_COSC60_TruePrends\TruePrendsOS\bin\Debug\MetroFramework.Fonts.dll
+F:\OS_COSC60_TruePrends\TruePrendsOS\obj\Debug\TruePrendsOS.csprojResolveAssemblyReference.cache
+F:\OS_COSC60_TruePrends\TruePrendsOS\obj\Debug\TruePrendsOS.LoadScreen.resources
+F:\OS_COSC60_TruePrends\TruePrendsOS\obj\Debug\TruePrendsOS.Login.resources
+F:\OS_COSC60_TruePrends\TruePrendsOS\obj\Debug\TruePrendsOS.MainForm.resources
+F:\OS_COSC60_TruePrends\TruePrendsOS\obj\Debug\TruePrendsOS.Properties.Resources.resources
+F:\OS_COSC60_TruePrends\TruePrendsOS\obj\Debug\TruePrendsOS.csproj.GenerateResource.Cache
+H:\OS_COSC60_TruePrends\TruePrendsOS\bin\Debug\TruePrendsOS.exe.config
+H:\OS_COSC60_TruePrends\TruePrendsOS\obj\Debug\TruePrendsOS.exe
+H:\OS_COSC60_TruePrends\TruePrendsOS\obj\Debug\TruePrendsOS.pdb
+E:\ \OS_COSC60_TruePrends\TruePrendsOS\bin\Debug\TruePrendsOS.exe.config
+E:\ \OS_COSC60_TruePrends\TruePrendsOS\obj\Debug\TruePrendsOS.exe
+E:\ \OS_COSC60_TruePrends\TruePrendsOS\obj\Debug\TruePrendsOS.pdb
+E:\ \OS_COSC60_TruePrends\TruePrendsOS\bin\Debug\TruePrendsOS.exe
+E:\ \OS_COSC60_TruePrends\TruePrendsOS\bin\Debug\TruePrendsOS.pdb
+E:\ \OS_COSC60_TruePrends\TruePrendsOS\bin\Debug\MetroFramework.Design.dll
+E:\ \OS_COSC60_TruePrends\TruePrendsOS\bin\Debug\MetroFramework.dll
+E:\ \OS_COSC60_TruePrends\TruePrendsOS\bin\Debug\MetroFramework.Fonts.dll
+E:\ \OS_COSC60_TruePrends\TruePrendsOS\obj\Debug\TruePrendsOS.csprojResolveAssemblyReference.cache
+E:\ \OS_COSC60_TruePrends\TruePrendsOS\obj\Debug\TruePrendsOS.computerInfo.resources
+E:\ \OS_COSC60_TruePrends\TruePrendsOS\obj\Debug\TruePrendsOS.LoadScreen.resources
+E:\ \OS_COSC60_TruePrends\TruePrendsOS\obj\Debug\TruePrendsOS.Login.resources
+E:\ \OS_COSC60_TruePrends\TruePrendsOS\obj\Debug\TruePrendsOS.MainForm.resources
+E:\ \OS_COSC60_TruePrends\TruePrendsOS\obj\Debug\TruePrendsOS.Properties.Resources.resources
+E:\ \OS_COSC60_TruePrends\TruePrendsOS\obj\Debug\TruePrendsOS.csproj.GenerateResource.Cache
+H:\ \OS_COSC60_TruePrends\TruePrendsOS\bin\Debug\TruePrendsOS.exe.config
+H:\ \OS_COSC60_TruePrends\TruePrendsOS\obj\Debug\TruePrendsOS.exe
+H:\ \OS_COSC60_TruePrends\TruePrendsOS\obj\Debug\TruePrendsOS.pdb
+H:\ \OS_COSC60_TruePrends\TruePrendsOS\bin\Debug\TruePrendsOS.exe
+H:\ \OS_COSC60_TruePrends\TruePrendsOS\bin\Debug\TruePrendsOS.pdb
+H:\ \OS_COSC60_TruePrends\TruePrendsOS\bin\Debug\MetroFramework.Design.dll
+H:\ \OS_COSC60_TruePrends\TruePrendsOS\bin\Debug\MetroFramework.dll
+H:\ \OS_COSC60_TruePrends\TruePrendsOS\bin\Debug\MetroFramework.Fonts.dll
+H:\ \OS_COSC60_TruePrends\TruePrendsOS\obj\Debug\TruePrendsOS.csprojResolveAssemblyReference.cache
+H:\ \OS_COSC60_TruePrends\TruePrendsOS\obj\Debug\TruePrendsOS.computerInfo.resources
+H:\ \OS_COSC60_TruePrends\TruePrendsOS\obj\Debug\TruePrendsOS.LoadScreen.resources
+H:\ \OS_COSC60_TruePrends\TruePrendsOS\obj\Debug\TruePrendsOS.Login.resources
+H:\ \OS_COSC60_TruePrends\TruePrendsOS\obj\Debug\TruePrendsOS.MainForm.resources
+H:\ \OS_COSC60_TruePrends\TruePrendsOS\obj\Debug\TruePrendsOS.Properties.Resources.resources
+H:\ \OS_COSC60_TruePrends\TruePrendsOS\obj\Debug\TruePrendsOS.csproj.GenerateResource.Cache
+F:\OS_COSC60_TruePrends\TruePrendsOS\obj\Debug\TruePrendsOS.computerInfo.resources
+F:\OS_COSC60_TruePrends\TruePrendsOS\obj\Debug\TruePrendsOS.SystemInfo.resources
